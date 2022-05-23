@@ -1,3 +1,4 @@
+[![Rust](https://github.com/0djentd/simple-rust-app/actions/workflows/rust.yml/badge.svg)](https://github.com/0djentd/simple-rust-app/actions/workflows/rust.yml)
 Simple app i wrote while learning Rust basics.
 
 # Description #
